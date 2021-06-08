@@ -4,8 +4,11 @@ Simulador de uma urna eletrônica brasileira de uma eleição fictícia de Verea
 
 ## Layout
 
-Tela Principal:
-<img src="https://github.com/rodrisoares/UrnaEletronica/blob/main/images/tela_principal.png" width="100%" />
+Tela Prefeito:
+<img src="https://github.com/rodrisoares/UrnaEletronica/blob/main/images/tela_principal.PNG" width="100%" />
+
+Tela Vereador:
+<img src="https://github.com/rodrisoares/UrnaEletronica/blob/main/images/tela_vereador.PNG" width="100%" />
 
 # 🛠 Tecnologias:
 * JavaScript
